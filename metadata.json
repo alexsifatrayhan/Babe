@@ -1,0 +1,5 @@
+{
+  "name": "Project Babe",
+  "description": "A devoted, human-like AI companion with a premium chat interface focused on pure love and sweet conversations.",
+  "requestFramePermissions": ["microphone"]
+}
